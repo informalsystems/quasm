@@ -1,0 +1,53 @@
+rules:
+  - id: rust-math
+    patterns:
+    - pattern-either:
+      - pattern: ... + ...
+      - pattern: ... - ...
+      - pattern: ... * ...
+      - pattern: ... / ...
+    languages: [rust]
+    message: Found math
+    severity: ERROR
+
+  - id: rust-math-relation
+    patterns:
+    - pattern-either:
+      - pattern: ... > ...
+      - pattern: ... < ...
+      - pattern: ... >= ...
+      - pattern: ... <= ...
+      - pattern: ... == ...
+      - pattern: ... != ...
+    languages: [rust]
+    message: Found a math relation
+    severity: ERROR
+
+  - id: rust-if-else
+    patterns:
+    - pattern: if ... { ... } else { ... }
+    languages: [rust]
+    message: Found if-else
+    severity: ERROR
+
+  - id: rust-if-let-else
+    patterns:
+    - pattern: if let $N = ... { ... }
+    languages: [rust]
+    message: Found if-let-else
+    severity: ERROR
+
+  - id: rust-list-ctor
+    patterns:
+    - pattern: vec![...]
+    languages: [rust]
+    message: Found a list constructor
+    severity: ERROR
+
+  - id: rust-list-append
+    patterns:
+    - pattern: ....push(...)
+    languages: [rust]
+    message: Found a list append
+    severity: ERROR
+
