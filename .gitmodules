@@ -1,0 +1,111 @@
+[submodule "submodules/smart-contracts"]
+	path = submodules/smart-contracts
+	url = https://github.com/alice-ltd/smart-contracts
+[submodule "submodules/money-market-contracts"]
+	path = submodules/money-market-contracts
+	url = https://github.com/Anchor-Protocol/money-market-contracts/
+[submodule "submodules/archway"]
+	path = submodules/archway
+	url = https://github.com/archway-network/archway
+[submodule "submodules/cw-croncat"]
+	path = submodules/cw-croncat
+	url = https://github.com/CronCats/cw-croncat
+[submodule "submodules/polytone"]
+	path = submodules/polytone
+	url = https://github.com/DA0-DA0/polytone
+[submodule "submodules/cw-ics721"]
+	path = submodules/cw-ics721
+	url = https://github.com/public-awesome/cw-ics721
+[submodule "submodules/marketplace"]
+	path = submodules/marketplace
+	url = https://github.com/public-awesome/marketplace
+[submodule "submodules/ica-oracle"]
+	path = submodules/ica-oracle
+	url = https://github.com/Stride-Labs/ica-oracle
+[submodule "submodules/cosmwasm-contracts"]
+	path = submodules/cosmwasm-contracts
+	url = https://github.com/suberra/cosmwasm-contracts
+[submodule "submodules/tefi-oracle-contracts"]
+	path = submodules/tefi-oracle-contracts
+	url = https://github.com/terra-money/tefi-oracle-contracts
+[submodule "submodules/astroport-lbport"]
+	path = submodules/astroport-lbport
+	url = https://github.com/astroport-fi/astroport-lbport
+[submodule "submodules/v1-contracts"]
+	path = submodules/v1-contracts
+	url = https://github.com/White-Whale-Defi-Platform/v1-contracts
+[submodule "submodules/sei-token-translator"]
+	path = submodules/sei-token-translator
+	url = https://github.com/everstake/sei-token-translator
+[submodule "submodules/ssz-rs"]
+	path = submodules/ssz-rs
+	url = https://github.com/ralexstokes/ssz-rs
+[submodule "submodules/contracts"]
+	path = submodules/contracts
+	url = https://github.com/AbstractSDK/contracts
+[submodule "submodules/astroport-bootstrapping"]
+	path = submodules/astroport-bootstrapping
+	url = https://github.com/astroport-fi/astroport-bootstrapping
+[submodule "submodules/autonomy-osmosis-contracts"]
+	path = submodules/autonomy-osmosis-contracts
+	url = https://github.com/Autonomy-Network/autonomy-osmosis-contracts
+[submodule "submodules/terra-blocklist"]
+	path = submodules/terra-blocklist
+	url = https://github.com/octalmage/terra-blocklist
+[submodule "submodules/calc-rs-osmosis"]
+	path = submodules/calc-rs-osmosis
+	url = https://github.com/calculated-finance/calc-rs-osmosis
+[submodule "submodules/genie-contracts"]
+	path = submodules/genie-contracts
+	url = https://github.com/coinhall/genie-contracts
+[submodule "submodules/dao-contracts"]
+	path = submodules/dao-contracts
+	url = https://github.com/DA0-DA0/dao-contracts
+[submodule "submodules/hybrid-custody"]
+	path = submodules/hybrid-custody
+	url = https://github.com/onflow/hybrid-custody
+[submodule "submodules/dexter_core"]
+	path = submodules/dexter_core
+	url = https://github.com/dexter-zone/dexter_core
+[submodule "submodules/contracts-terra"]
+	path = submodules/contracts-terra
+	url = https://github.com/erisprotocol/contracts-terra
+[submodule "submodules/glow-contracts"]
+	path = submodules/glow-contracts
+	url = https://github.com/glow-protocol/glow-contracts
+[submodule "submodules/lido-satellite"]
+	path = submodules/lido-satellite
+	url = https://github.com/hadronlabs-org/lido-satellite
+[submodule "submodules/ibcx-contracts"]
+	path = submodules/ibcx-contracts
+	url = https://github.com/many-things/ibcx-contracts
+[submodule "submodules/illiquidlabs-contracts"]
+	path = submodules/illiquidlabs-contracts
+	url = https://github.com/Illiquidly/illiquidlabs-contracts
+[submodule "submodules/lido-terra-contracts"]
+	path = submodules/lido-terra-contracts
+	url = https://github.com/lidofinance/lido-terra-contracts
+[submodule "submodules/perpetuals"]
+	path = submodules/perpetuals
+	url = https://github.com/margined-protocol/perpetuals
+[submodule "submodules/membrane-core"]
+	path = submodules/membrane-core
+	url = https://github.com/MembraneFinance/membrane-core
+[submodule "submodules/mirror-contracts"]
+	path = submodules/mirror-contracts
+	url = https://github.com/Mirror-Protocol/mirror-contracts
+[submodule "submodules/nebula-contracts"]
+	path = submodules/nebula-contracts
+	url = https://github.com/nebula-protocol/nebula-contracts
+[submodule "submodules/neutron-sdk"]
+	path = submodules/neutron-sdk
+	url = https://github.com/neutron-org/neutron-sdk
+[submodule "submodules/nym"]
+	path = submodules/nym
+	url = https://github.com/nymtech/nym
+[submodule "submodules/cw-wbtc"]
+	path = submodules/cw-wbtc
+	url = https://github.com/osmosis-labs/cw-wbtc
+[submodule "submodules/phase-contracts"]
+	path = submodules/phase-contracts
+	url = https://github.com/phase-fi/phase-contracts
