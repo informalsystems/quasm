@@ -1,1 +1,34 @@
 # Contracts
+
+An incomplete list of the contracts audited by Oak Security, available from
+[Oak Security Audit Reports](https://github.com/oak-security/audit-reports/).
+We only collected the contracts that were available in October 2023.
+
+ - [Abstract SDK contracts](https://github.com/AbstractSDK/contracts/tree/main/contracts)
+ - [Alice-ltd contracts](https://github.com/alice-ltd/smart-contracts)
+ - [Anchor Protocol contracts](https://github.com/Anchor-Protocol/money-market-contracts/)
+ - [Archway contracts](https://github.com/archway-network/archway)
+ - [Astroport bootstrapping](https://github.com/astroport-fi/astroport-bootstrapping/tree/main/contracts)
+ - [Autonomy Osmosis contracts](https://github.com/Autonomy-Network/autonomy-osmosis-contracts/tree/main/contracts)
+ - [Terra CW20 Blocklist](https://github.com/octalmage/terra-blocklist/tree/main/contracts/cw20-blocklist)
+ - [Calculated Finance contracts](https://github.com/calculated-finance/calc-rs-osmosis/tree/main/contracts/dca)
+ - [Coinhall Genie contracts](https://github.com/coinhall/genie-contracts/tree/main/contracts)
+ - [CronCats contracts](https://github.com/CronCats/cw-croncat)
+ - [DAO-DAO contracts](https://github.com/DA0-DA0/dao-contracts/tree/development/contracts)
+ - [Dapper Labs Hybrid custody](https://github.com/onflow/hybrid-custody/tree/main/contracts)
+ - [Dexter core contracts](https://github.com/dexter-zone/dexter_core/tree/main/contracts)
+ - [Eris Protocol contracts](https://github.com/erisprotocol/contracts-terra/tree/main/contracts)
+ - [Glow contracts](https://github.com/glow-protocol/glow-contracts/tree/main/contracts)
+ - [Hardron Labs Lido Satellite contracts](https://github.com/hadronlabs-org/lido-satellite/tree/main/contracts)
+ - [Many things IBCX contracts](https://github.com/many-things/ibcx-contracts/tree/main/contracts)
+ - [Illiquidly illiquidlabs contracts](https://github.com/Illiquidly/illiquidlabs-contracts/tree/master/contracts)
+ - [Lido Terra contracts](https://github.com/lidofinance/lido-terra-contracts/tree/main/contracts)
+ - [Margined Protocol contracts](https://github.com/margined-protocol/perpetuals/tree/main/contracts)
+ - [Mars Protocol contracts](https://github.com/mars-protocol/contracts/tree/master/contracts)
+ - [Membrane Finance contracts](https://github.com/MembraneFinance/membrane-core/tree/main/contracts)
+ - [Mirror contracts](https://github.com/Mirror-Protocol/mirror-contracts/tree/release/v2.2.x/contracts)
+ - [Nebula contracts](https://github.com/nebula-protocol/nebula-contracts/tree/main/contracts)
+ - [Neutron contracts](https://github.com/neutron-org/neutron-sdk/tree/main/contracts)
+ - [Nym contracts](https://github.com/nymtech/nym/tree/develop/contracts)
+ - [Osmosis WBTC contracts](https://github.com/osmosis-labs/cw-wbtc/tree/main/contracts)
+ - [Phase contracts](https://github.com/phase-fi/phase-contracts/tree/main/contracts/dca)
